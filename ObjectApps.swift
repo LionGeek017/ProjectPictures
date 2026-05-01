@@ -5,6 +5,9 @@
 //  Created by Maksim on 17.04.2026.
 //
 
+// Масив обʼєктів додатків для модуля Cross Promo
+// Працює через Remote Config Firebase
+
 [
     {
        "id": "app_1",
@@ -57,7 +60,7 @@
          "ru": "Счетчик калорий"
        },
        "sub_name": {
-         "uk": "SnapFood — рахуй калорії за фото",
+         "uk": "SnapFood — рахуй калорії по фото",
          "en": "SnapFood — count calories from photos",
          "fr": "SnapFood — comptez les calories à partir de photos",
          "de": "SnapFood — Kalorien per Foto zählen",
@@ -215,7 +218,7 @@
          "ru": "BilinGo — фото и голосовой переводчик"
        },
        "description": {
-         "uk": "Перекладай текст голосом, за фото або через камеру в реальному часі! BilinGo миттєво розпізнає і перекладає текст — просто наведи камеру або сфотографуй",
+         "uk": "Перекладай текст голосом, по фото або через камеру в реальному часі! BilinGo миттєво розпізнає і перекладає текст — просто наведи камеру або сфотографуй",
          "en": "Translate text by voice, photo, or live camera in real time! BilinGo instantly recognizes and translates text — just point your camera or take a photo",
          "fr": "Traduisez du texte par voix, photo ou caméra en temps réel ! BilinGo reconnaît et traduit le texte instantanément — pointez simplement votre caméra ou prenez une photo",
          "de": "Übersetzen Sie Text per Sprache, Foto oder Live-Kamera in Echtzeit! BilinGo erkennt und übersetzt Text sofort — richten Sie einfach Ihre Kamera aus oder machen Sie ein Foto",
